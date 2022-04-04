@@ -21,6 +21,5 @@ public class Exercicio3IdadeCategoria {
 			System.out.println("\nInfelizmente não temos a sua categoria");
 		}
 		
-		
 	}
 }
