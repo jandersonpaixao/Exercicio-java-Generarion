@@ -1,8 +1,10 @@
+package exercicios;
+
 import java.util.Scanner;
 
 public class ExercicioExtra2DiasEmAnos {
 	
-}
+
 	public static void main(String[] args) {
 		int totalDias,anos, meses,dias;
 		
@@ -16,3 +18,4 @@ public class ExercicioExtra2DiasEmAnos {
 		System.out.println("\nVocê viveu: " + anos + " anos(s),"+ meses +" mes(ses) e " + dias + " dia(s)" );
 		
 	}
+}
