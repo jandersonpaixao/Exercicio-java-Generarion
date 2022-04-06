@@ -13,7 +13,7 @@ public class Exercicio2Array {
 		
 		Scanner leia = new Scanner(System.in);
 		
-		for(x=0;x<4;x++) {
+		for(x=0;x<6;x++) {
 			
 			System.out.println("\nInforme um número: ");
 			num[x] = leia.nextInt(); 
