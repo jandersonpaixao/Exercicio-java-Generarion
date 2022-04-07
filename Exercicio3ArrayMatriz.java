@@ -14,7 +14,7 @@ public class Exercicio3ArrayMatriz {
 		
 		for (x = 0; x < 3; x++) {
 			for (y = 0; y < 3; y++) {
-		System.out.println("\n entre com os numero");		
+		System.out.println("\nEntre com os números");		
 		matriz[x][y] = leia.nextInt();		
 				
 				if(matriz[x][y] > 10 ) {
